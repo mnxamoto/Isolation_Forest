@@ -1,0 +1,112 @@
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csprojAssemblyReference.cache
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач_СОВ_Изолирующий_Лес.Form1.resources
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач_СОВ_Изолирующий_Лес.Properties.Resources.resources
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.GenerateResource.cache
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.CoreCompileInputs.cache
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.exe.config
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.exe
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.pdb
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.dll
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.dll
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.dll
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.dll
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.pdb
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.xml
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.pdb
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.xml
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.pdb
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.xml
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.pdb
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.xml
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.CopyComplete
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.exe
+c:\users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.pdb
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.Runtime.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\multiInstanceFilters.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\multiInstanceLearning.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\NTTU.BigODM.MachineLearning.Weka.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\SMOTE.dll
+C:\Users\mnxam\source\repos\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\weka3.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.exe.config
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.exe
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\Курсач СОВ Изолирующий Лес.pdb
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.Runtime.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\multiInstanceFilters.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\multiInstanceLearning.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\NTTU.BigODM.MachineLearning.Weka.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\SMOTE.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\weka3.dll
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.pdb
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Base.xml
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.pdb
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.xml
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.pdb
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Core.Extensions.xml
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.pdb
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\bin\Debug\PcapDotNet.Packets.xml
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csprojAssemblyReference.cache
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач_СОВ_Изолирующий_Лес.Form1.resources
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач_СОВ_Изолирующий_Лес.Properties.Resources.resources
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.GenerateResource.cache
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.CoreCompileInputs.cache
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.csproj.CopyComplete
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.exe
+C:\Репозитории\C#\Курсач СОВ Изолирующий Лес\Курсач СОВ Изолирующий Лес\obj\Debug\Курсач СОВ Изолирующий Лес.pdb
